@@ -316,3 +316,150 @@ select {
 /* ----------------- NEWS END -------------------- */
 
 /* ----------------- MAIN END -------------------- */
+
+/* ----------------- FOOTER START -------------------- */
+.footer {
+	background-color: #fff;
+	padding: 48px 0 34px;
+}
+
+.footer__wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+
+.footer__info {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 50px;
+}
+
+.footer__info-title {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: auto;
+	letter-spacing: 0.09px;
+	color: #000;
+
+	margin-bottom: 26px;
+}
+
+.footer__info-list {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.footer__info-item-link {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: auto;
+	letter-spacing: 0.08px;
+	color: #000;
+
+	opacity: 30%;
+	transition: opacity 0.4s;
+}
+
+.footer__info-item-link:hover {
+	opacity: 1;
+}
+
+.footer__info-phone {
+	font-size: 25px;
+	font-weight: 500;
+	line-height: 33px;
+	letter-spacing: 0px;
+	color: #000;
+}
+
+.footer__info-address {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0px;
+	font-style: normal;
+
+	margin-top: 12px;
+	opacity: 30%;
+}
+
+.footer__end {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 50px;
+}
+
+.footer__end-wrapper {
+	display: flex;
+	align-items: flex-start;
+	gap: 100px;
+}
+
+.footer__end-info {
+	display: flex;
+	flex-direction: column;
+	gap: 35px;
+}
+
+.footer__end-list {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+}
+
+.footer__end-item-link {
+	width: 36px;
+	height: 36px;
+	background-color: #F8F8FA;
+	border-radius: 50%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: transform 0.4s;
+}
+
+.footer__end-item-link:hover {
+	transform: translateY(-5px);
+}
+
+.footer__end-select {
+	background-color: #F8F8FA;
+	border-radius: 2px;
+	width: 100px;
+}
+
+.footer__end-copy {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: auto;
+	letter-spacing: 0.08px;
+	color: #000;
+	opacity: 30%;
+}
+
+.footer__end-right {
+	display: flex;
+	flex-direction: column;
+	gap: 22px;
+}
+
+.footer__end-right-title {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: auto;
+	letter-spacing: 0.1px;
+	color: #000;
+}
+
+.footer__end-download {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+/* ----------------- FOOTER END -------------------- */
+
