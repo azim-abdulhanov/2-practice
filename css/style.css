@@ -69,7 +69,6 @@ select {
 
 	font-size: 14px;
 	font-weight: 400;
-	line-height: auto;
 	letter-spacing: -0.2px;
 }
 
@@ -87,7 +86,6 @@ select {
 .site-header__search-form-input::placeholder {
 	font-size: 14px;
 	font-weight: 400;
-	line-height: auto;
 	letter-spacing: -0.2px;
 	color: #000;
 	opacity: 30%;	
@@ -148,7 +146,6 @@ select {
 .advertisment__bottom-title {
 	font-size: 30px;
 	font-weight: 700;
-	line-height: auto;
 	letter-spacing: -0.15px;
 	color: #fff;
 }
@@ -156,7 +153,6 @@ select {
 .advertisment__bottom-link {
 	font-size: 16px;
 	font-weight: 500;
-	line-height: auto;
 	letter-spacing: -0.08px;
 	color: #fff;
 }
@@ -174,7 +170,6 @@ select {
 .section__title {
 	font-size: 30px;
 	font-weight: 700;
-	line-height: auto;
 	letter-spacing: -0.15px;
 	margin-bottom: 30px;
 }
@@ -265,7 +260,6 @@ select {
 .news__item-date {
 	font-size: 16px;
 	font-weight: 400;
-	line-height: auto;
 	letter-spacing: -0.23px;
 	color: #000;
 }
@@ -279,7 +273,6 @@ select {
 .news__item-views-count {
 	font-size: 16px;
 	font-weight: 400;
-	line-height: auto;
 	letter-spacing: -0.23px;
 	color: #000;
 }
@@ -301,7 +294,6 @@ select {
 	
 	font-size: 16px;
 	font-weight: 500;
-	line-height: auto;
 	letter-spacing: -0.23px;
 	color: #fff;
 	background-color: #3A4357;
@@ -339,7 +331,6 @@ select {
 .footer__info-title {
 	font-size: 16px;
 	font-weight: 500;
-	line-height: auto;
 	letter-spacing: 0.09px;
 	color: #000;
 
@@ -355,7 +346,6 @@ select {
 .footer__info-item-link {
 	font-size: 14px;
 	font-weight: 400;
-	line-height: auto;
 	letter-spacing: 0.08px;
 	color: #000;
 
@@ -436,7 +426,6 @@ select {
 .footer__end-copy {
 	font-size: 14px;
 	font-weight: 400;
-	line-height: auto;
 	letter-spacing: 0.08px;
 	color: #000;
 	opacity: 30%;
@@ -451,7 +440,6 @@ select {
 .footer__end-right-title {
 	font-size: 18px;
 	font-weight: 500;
-	line-height: auto;
 	letter-spacing: 0.1px;
 	color: #000;
 }
