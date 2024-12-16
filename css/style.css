@@ -103,3 +103,53 @@ select {
 	background-position: calc(10%) center;
 }
 /*----------------- SITE HEADER END --------------------*/
+
+/*----------------- ADVERTISMENT START --------------------*/
+.advertisment__top {
+	padding: 24px 0;
+	background-color: #fff;
+}
+
+.advertisment__top-list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 30px;
+}
+
+.advertisment__top-item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 160px;
+	height: 50px;
+	background-color: #f8f8fa;
+	border-radius: 2px;
+}
+
+.advertisment__bottom {
+	padding: 12px 0;
+	background-color: #fcc400;
+}
+
+.advertisment__bottom-title {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: auto;
+	letter-spacing: -0.15px;
+	color: #fff;
+}
+
+.advertisment__bottom-link {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: auto;
+	letter-spacing: -0.08px;
+	color: #fff;
+}
+
+.advertisment__bottom-link:hover {
+	text-decoration: underline;
+}
+/*----------------- ADVERTISMENT END --------------------*/
