@@ -153,3 +153,55 @@ select {
 	text-decoration: underline;
 }
 /*----------------- ADVERTISMENT END --------------------*/
+
+/* ----------------- MAIN START -------------------- */
+.site-main {
+	background-color: #f8f8fa;
+}
+
+.section__title {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: auto;
+	letter-spacing: -0.15px;
+	margin-bottom: 30px;
+}
+
+/* ----------------- OPERATORS START -------------------- */
+.operators {
+	padding: 49px 0;
+}
+
+.operators__list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 30px;
+}
+
+.operators__item {
+	width: 160px;
+	height: 160px;
+	padding: 38px 0 16px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: #fff;
+}
+
+.operators__item-img {
+	margin-bottom: 22px;
+}
+
+.operators__item-title {
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 26px;
+	letter-spacing: 0.11px;
+}
+/* ----------------- OPERATORS END -------------------- */
+
+/* ----------------- NEWS START -------------------- */
+
+/* ----------------- NEWS END -------------------- */
+
+/* ----------------- MAIN END -------------------- */
